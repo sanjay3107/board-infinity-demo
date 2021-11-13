@@ -3,6 +3,6 @@ hello world how are you
 
 this is my firstgithub class demo
 
-basics od branching
+basics of branching
 
 laxmans new line of code.
